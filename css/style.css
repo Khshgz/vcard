@@ -79,7 +79,7 @@ a {
 .content-fixed .avatar {
   width: 120px;
   height: 120px;
-  border: solid 7px rgba(255, 255, 255, 0.0509803922);
+  border: solid 7px rgba(0, 66, 184, 0.07);
   margin: 0 auto;
   position: relative;
   border-radius: 100%;
